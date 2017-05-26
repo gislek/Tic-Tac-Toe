@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Prosjektoppgave</string>
+
+    <string name="rules">The object of Tic Tac Toe is to get three in a row. You play on a three by three game board. The first player is known as X and the second is O. \nPlayers alternate placing Xs and Os on the game board until either oppent has three in a row or all nine squares are filled.</string>
+    <string name="name">Tic-Tac-Toe</string>
+    <string name="ok" translatable="false">OK</string>
+    <string name="player1">Player 1</string>
+    <string name="player2">Player 2</string>
+    <string name="rounds">Number of rounds</string>
+    <string name="missingName">Please enter a name for both players</string>
+    <string name="play">Play</string>
+    <string name="noMoves">Draw!</string>
+    <string name="win">%1$s won!</string>
+    <string name="victories">"Victories:\n%1$s: %2$d\n%3$s: %4$d "</string>
+    <string name="moves">Moves per round:\n%1$s</string>
+    <string name="next">Next</string>
+    <string name="back">Back to menu</string>
+</resources>

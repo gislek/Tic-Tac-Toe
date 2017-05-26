@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prosjektoppgave</string>
+    <string name="rules">Formålet med bondesjakk er å få tre på rad. Du spiller på et tre ganger tre spillbrett. Den første spilleren er kjent som X, og den andre er O. Spillere bytter på å plassere Xer og Oer på brettet til en av spillerne har tre på rad eller alle ni kvadrater er fylt.</string>
+    <string name="name">Bondesjakk</string>
+    <string name="player1">Spiller 1</string>
+    <string name="player2">Spiller 2</string>
+    <string name="rounds">Antall runder</string>
+    <string name="missingName">Vennligst fyll inn et navn for begge spillere</string>
+    <string name="play">Start</string>
+    <string name="noMoves">Uavgjort!</string>
+    <string name="win">%1$s vant!</string>
+    <string name="victories">"Seiere:\n%1$s: %2$d\n%3$s: %4$d "</string>
+    <string name="moves">Trekk per runde:\n%1$s</string>
+    <string name="next">Neste</string>
+    <string name="back">Tilbake til menyen</string>
+</resources>
